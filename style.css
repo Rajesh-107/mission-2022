@@ -1,0 +1,172 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0;
+    background-color: whitesmoke;
+    position: absolute;
+    font: 1em;
+}
+
+p {
+    margin-top: 20px;
+}
+
+.container {
+    display: flex;
+    margin-bottom: 50px;
+    padding-top: 100px;
+}
+
+.mission-h {
+    color: gold;
+}
+
+.half {
+    width: 50%;
+    padding-left: 2%;
+    float: left;
+    margin-left: 5%;
+}
+
+.half p {
+    padding-bottom: 2%;
+}
+
+.half h1 {
+    font-size: 40px;
+}
+
+.section {
+    height: 700px;
+    padding-bottom: 450px;
+}
+
+.explore-btn {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(231, 107, 107), rgb(231, 107, 107));
+    padding: 10px 40px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 800;
+}
+
+.half img {
+    width: 70%;
+    padding-left: 35px;
+}
+
+.second-half h2 {
+    margin-right: 20px;
+    font: 1em sans-serif;
+}
+
+.second-mission {
+    font: 1em sans-serif;
+}
+
+.second-mission h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900px;
+}
+
+.second-mission span {
+    color: gold;
+}
+
+.grid-container img {
+    height: 140px;
+    width: 160px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+.grid-item-1 {
+    height: 340px;
+    background-color: rgb(185, 212, 238);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    text-align: justify;
+}
+
+.grid-item-2 {
+    background-color: rgb(199, 243, 228);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: justify;
+}
+
+.grid-item-3 {
+    background-color: rgb(215, 174, 243);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: justify;
+}
+
+.second-half {
+    width: 50%;
+    padding-left: 2%;
+    float: left;
+    margin-left: 5%;
+    text-align: left;
+}
+
+.second-half img {
+    width: 70%;
+    padding-left: 35px;
+}
+
+strong {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900px;
+}
+
+.submit-btn {
+    text-align: center;
+    background-color: rgb(191, 235, 235);
+    background-size: auto;
+}
+
+#submit {
+    margin: 20px;
+}
+
+#contact {
+    height: 300px;
+    margin-bottom: 100px;
+    border-radius: 12px;
+}
+
+#email {
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#password {
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#text {
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+footer h1 {
+    font-style: italic;
+    text-align: center;
+}
